@@ -1,6 +1,6 @@
 //////////////////////////// interview question //////////////// 
 
-var arr = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150]
+var arr = [1,10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150]
 var AVG;
 arr.length % 2 == 0 ? AVG = arr.length / 2 : AVG = (arr.length - 1) / 2
 function srch(array, num) {
